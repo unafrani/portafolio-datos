@@ -1,6 +1,8 @@
 # Portafolio de Análisis de Datos
 
-👋 Hola, soy Frani, y este es mi portafolio personal donde exploro el análisis de datos como herramienta para entender, comunicar y transformar realidades.
+👋 Hola!, soy Frani, y este es mi portafolio personal donde exploro el análisis de datos como herramienta para entender, comunicar y transformar realidades.
+
+Tiene como propósito **demostrar mis habilidades como analista de datos** utilizando proyectos reales y públicos. Está dirigido a **reclutadores, organizaciones y personas interesadas en el impacto social del análisis de datos**, especialmente en temas como género, desigualdad, salud y tiempo.
 
 Aquí encontrarás proyectos desarrollados con datos reales y públicos, abordando temas diversos como desigualdad, género, tecnología, tiempo y acceso.  
 Utilizo herramientas como **SQL, Python, Jupyter/Colab, Excel, Power BI y Tableau**, dependiendo del enfoque de cada análisis.
@@ -33,7 +35,9 @@ Exploración de egresos hospitalarios por causas asociadas al suicidio, con enfo
 🧠 SQL · Python · Google Colab  
 📂 Datos: DEIS (Ministerio de Salud)
 
-
-
 ---
+
+
+
+
 
