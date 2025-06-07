@@ -3,7 +3,7 @@
 👋 Hola, soy Frani, y este es mi portafolio personal donde exploro el análisis de datos como herramienta para entender, comunicar y transformar realidades.
 
 Aquí encontrarás proyectos desarrollados con datos reales y públicos, abordando temas diversos como desigualdad, género, tecnología, tiempo y acceso.  
-Utilizo herramientas como **Python, Jupyter/Colab, Excel, Power BI y Tableau**, dependiendo del enfoque de cada análisis.
+Utilizo herramientas como **SQL, Python, Jupyter/Colab, Excel, Power BI y Tableau**, dependiendo del enfoque de cada análisis.
 
 ---
 
@@ -23,9 +23,17 @@ Análisis de cuánto gasta una persona menstruante según su nivel socioeconómi
 📊 Python · Google Colab · Visualización  
 📂 Datos: CASEN (2022) y SERNAC/DEI (2024)
 
+### 🔸 [Uso del tiempo con enfoque de género](./uso-del-tiempo-genero/README.md)  
+Exploración de cómo mujeres y hombres distribuyen su tiempo entre trabajo remunerado, no remunerado y ocio.  
+📊 Tableau · Visualización crítica  
+📂 Datos: Encuesta Nacional Uso del Tiempo (INE)
+
+### 🔸 [Análisis de suicidios en Chile (DEIS 2020)](./analisis_suicidios_chile_2020/README.md)  
+Exploración de egresos hospitalarios por causas asociadas al suicidio, con enfoque en edad, sexo y región.  
+🧠 SQL · Python · Google Colab  
+📂 Datos: DEIS (Ministerio de Salud)
+
+
+
 ---
 
-## ✨ Próximamente...
-- Uso del tiempo con enfoque de género
-- Brecha digital y educación
-- Visualización crítica con datos abiertos internacionales
